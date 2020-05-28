@@ -1,3 +1,10 @@
+# Files specific to project execution
+snapshots/
+training/pre-trained-model/
+training/tensorboard/
+training/images/validation/
+training/images/train/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
